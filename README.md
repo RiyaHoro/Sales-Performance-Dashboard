@@ -39,17 +39,13 @@ This dashboard was built to track sales executives’ performance across regions
 ---
 
 ### 🧾 Example Metrics Displayed
-| Metric | Description |
-|--------|--------------|
-|Target Hit % |How much of the target each sales executive achieved.
-
-Away From Target %|How far each executive is from their goal.
-
-Top 5 Sales Executives|Highest performers based on total sales.
-
-Average Target Hit % (by City)|Regional performance comparison.
-
-Total Sales|Overall sales volume across all regions.
+| **Metric**                         | **Description**                                       |
+| ---------------------------------- | ----------------------------------------------------- |
+| **Target Hit %**                   | How much of the target each sales executive achieved. |
+| **Away From Target %**             | How far each executive is from their goal.            |
+| **Top 5 Sales Executives**         | Highest performers based on total sales.              |
+| **Average Target Hit % (by City)** | Regional performance comparison.                      |
+| **Total Sales**                    | Overall sales volume across all regions.              |
 
 ---
 
