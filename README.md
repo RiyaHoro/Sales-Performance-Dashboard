@@ -22,7 +22,7 @@ This Excel dashboard visualizes and analyzes the performance of sales executives
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](Screenshot(26).png)
+![Dashboard Screenshot](Dashboard.png)
 
 
 ## 📁 Download the Dashboard
